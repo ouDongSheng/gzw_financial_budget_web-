@@ -1,0 +1,18 @@
+.logo{
+  width: 3.125rem;
+  height: 3.125rem;
+}
+.avue-upload__icon,.avue-upload__avatar {
+  width: 5rem !important;
+  height: 5rem !important;
+  line-height: 5.3125rem !important;
+}
+.el-upload__tip{
+  
+   position: absolute;
+   left:100px;
+   top: 10px;
+}
+.el-table th.gutter{
+  display: table-cell!important;
+}
