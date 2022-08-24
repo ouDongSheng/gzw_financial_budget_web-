@@ -1,2 +1,0 @@
-1调整顶部右边菜单高度找：src\page\index\目录下的tags.vue文件中的css：.avue-tags { height: 41px;
-2调整顶部左边菜单高度找：src\page\index\目录下的logo.vue文件中的css：.avue-logo { height: 41px;
